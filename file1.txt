@@ -1,0 +1,9 @@
+hello world
+   
+
+start
+input side "s"
+area = s*s
+perimeter =4*s
+display perimeter and area
+stop
